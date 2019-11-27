@@ -1,0 +1,1225 @@
+2019-10-31 12:58:06,356-INFO-object_detection_server.py:222 presenter server is starting...
+2019-10-31 12:58:06,357-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-10-31 14:31:51,610-INFO-object_detection_server.py:222 presenter server is starting...
+2019-10-31 14:31:51,611-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-10-31 14:42:06,046-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x224a4a8>
+2019-10-31 14:42:06,046-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-10-31 14:44:08,730-INFO-object_detection_server.py:222 presenter server is starting...
+2019-10-31 14:44:08,731-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 11:04:44,486-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 11:04:44,486-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 11:26:16,563-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 11:26:16,563-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 11:28:11,252-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54004, fd:10
+2019-11-01 11:28:11,253-ERROR-presenter_socket_server.py:354 channel name video is not exist.
+2019-11-01 11:28:11,254-INFO-channel_manager.py:216 register channel: video
+2019-11-01 11:28:11,255-INFO-channel_handler.py:215 create videothread-video...
+2019-11-01 11:28:11,256-INFO-channel_manager.py:127 create channel resource, channel_name:video, channel_fd:10, media_type:video
+2019-11-01 11:28:17,444-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-01 11:28:17,445-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-01 11:28:17,446-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54004)>}
+2019-11-01 11:28:17,448-INFO-channel_handler.py:124 videothread-video set _close_thread_switch True
+2019-11-01 11:28:17,448-INFO-channel_manager.py:139 clean channel: video's resource
+2019-11-01 11:28:17,449-INFO-channel_handler.py:226 Stop thread:videothread-video.
+2019-11-01 11:28:55,111-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54014, fd:10
+2019-11-01 11:28:55,112-INFO-channel_handler.py:215 create videothread-video...
+2019-11-01 11:28:55,112-INFO-channel_manager.py:127 create channel resource, channel_name:video, channel_fd:10, media_type:video
+2019-11-01 11:29:10,703-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-01 11:29:10,704-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-01 11:29:10,704-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54014)>}
+2019-11-01 11:29:10,705-INFO-channel_handler.py:124 videothread-video set _close_thread_switch True
+2019-11-01 11:29:10,705-INFO-channel_manager.py:139 clean channel: video's resource
+2019-11-01 11:29:10,706-INFO-channel_handler.py:226 Stop thread:videothread-video.
+2019-11-01 11:41:09,256-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 11:41:09,257-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 12:25:00,299-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 12:25:00,300-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 12:32:01,716-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 12:32:01,717-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 12:34:48,861-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 12:34:48,862-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 12:42:51,636-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54064, fd:10
+2019-11-01 17:03:10,567-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 17:03:10,567-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 17:08:50,201-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-01 17:08:50,202-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-01 17:42:30,597-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:35334, fd:10
+2019-11-04 09:21:56,781-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-04 09:21:56,782-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-04 09:27:08,590-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-04 09:27:08,590-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-04 09:44:49,094-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x17d3898>
+2019-11-04 09:44:49,095-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-11-04 09:49:55,955-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-04 09:49:55,956-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-04 10:33:26,282-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-04 10:33:26,283-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-04 10:34:14,982-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:39984, fd:10
+2019-11-04 10:34:14,982-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-04 10:34:14,982-INFO-channel_manager.py:216 register channel: ccm
+2019-11-04 10:34:14,983-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 10:34:14,983-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-04 10:37:01,590-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-04 10:37:01,591-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 10:37:01,591-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 39984)>}
+2019-11-04 10:37:01,592-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 10:37:01,593-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 10:37:01,608-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 12:36:01,217-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-04 12:36:01,218-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-04 12:36:15,553-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:40078, fd:10
+2019-11-04 12:36:15,554-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-04 12:36:15,554-INFO-channel_manager.py:216 register channel: ccm
+2019-11-04 12:36:15,554-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 12:36:15,554-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-04 12:38:45,558-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 12:38:45,559-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 12:38:45,559-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 12:39:40,918-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46814, fd:11
+2019-11-04 12:39:40,919-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 12:39:40,920-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 12:40:38,755-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 12:40:38,756-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 12:40:38,756-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46814)>}
+2019-11-04 12:40:38,757-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 12:40:38,758-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 12:40:38,758-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 12:44:28,873-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46824, fd:11
+2019-11-04 12:44:28,874-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 12:44:28,875-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 12:45:14,803-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 12:45:14,804-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 12:45:14,804-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46824)>}
+2019-11-04 12:45:14,804-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 12:45:14,804-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 12:45:14,805-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 12:47:00,406-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46834, fd:11
+2019-11-04 12:47:00,408-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 12:47:00,409-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 12:48:05,217-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 12:48:05,218-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 12:48:05,218-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46834)>}
+2019-11-04 12:48:05,219-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 12:48:05,219-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 12:48:05,247-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 12:56:00,237-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46844, fd:11
+2019-11-04 12:56:00,239-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 12:56:00,240-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 12:56:48,099-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 12:56:48,099-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 12:56:48,100-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46844)>}
+2019-11-04 12:56:48,100-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 12:56:48,100-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 12:56:48,100-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 13:09:32,920-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46854, fd:11
+2019-11-04 13:09:32,921-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 13:09:32,922-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 13:11:36,904-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 13:11:36,904-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 13:11:36,904-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46854)>}
+2019-11-04 13:11:36,904-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 13:11:36,904-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 13:11:36,905-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 13:15:56,983-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46864, fd:11
+2019-11-04 13:15:56,984-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 13:15:56,985-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 13:17:49,102-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 13:17:49,103-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 13:17:49,103-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46864)>}
+2019-11-04 13:17:49,104-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 13:17:49,105-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 13:17:49,131-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 13:18:43,613-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46874, fd:11
+2019-11-04 13:18:43,614-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 13:18:43,615-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 13:19:40,942-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 13:19:40,942-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 13:19:40,942-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46874)>}
+2019-11-04 13:19:40,943-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 13:19:40,943-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 13:19:40,943-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 13:21:44,193-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46884, fd:11
+2019-11-04 13:21:44,194-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 13:21:44,195-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 13:22:35,591-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 13:22:35,591-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 13:22:35,591-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46884)>}
+2019-11-04 13:22:35,592-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 13:22:35,592-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 13:22:35,599-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 14:06:00,864-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46894, fd:11
+2019-11-04 14:06:00,865-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 14:06:00,866-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 14:06:55,437-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 14:06:55,437-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 14:06:55,437-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46894)>}
+2019-11-04 14:06:55,438-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 14:06:55,438-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 14:06:55,439-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 14:09:17,881-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46904, fd:11
+2019-11-04 14:09:17,882-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 14:09:17,883-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 14:10:46,099-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 14:10:46,100-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 14:10:46,100-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46904)>}
+2019-11-04 14:10:46,100-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 14:10:46,100-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 14:10:46,107-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 14:11:37,641-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46914, fd:11
+2019-11-04 14:11:37,642-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 14:11:37,643-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 14:13:26,871-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 14:13:26,871-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 14:13:26,871-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46914)>}
+2019-11-04 14:13:26,872-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 14:13:26,872-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 14:13:26,884-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 14:31:08,676-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46924, fd:11
+2019-11-04 14:31:08,677-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 14:31:08,677-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 14:32:23,105-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 14:32:23,106-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 14:32:23,106-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46924)>}
+2019-11-04 14:32:23,107-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 14:32:23,107-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 14:32:23,108-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 14:33:16,479-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46934, fd:11
+2019-11-04 14:33:16,480-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 14:33:16,481-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 14:41:45,767-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 14:41:45,767-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 14:41:45,768-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46934)>}
+2019-11-04 14:41:45,768-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 14:41:45,769-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 14:41:45,798-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 15:50:16,928-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:37102, fd:11
+2019-11-04 15:50:16,930-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 15:50:16,931-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-04 15:50:49,491-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-04 15:50:49,491-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-04 15:50:49,491-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 40078)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 37102)>}
+2019-11-04 15:50:49,492-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 15:50:49,492-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 15:50:49,499-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 17:29:37,440-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x27914f8>
+2019-11-04 17:29:37,441-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-11-04 19:35:30,485-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-04 19:35:30,485-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-04 19:36:01,205-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:40224, fd:12
+2019-11-04 19:36:01,206-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-04 19:36:01,207-INFO-channel_manager.py:216 register channel: ccm
+2019-11-04 19:36:01,208-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-04 19:36:01,208-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-04 19:54:19,251-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-04 19:54:19,252-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-04 19:54:19,263-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-04 20:34:40,702-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x29bf8f8>
+2019-11-04 20:34:40,702-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-11-05 10:38:52,293-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-05 10:38:52,297-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-05 10:39:16,357-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46266, fd:10
+2019-11-05 10:39:16,357-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-05 10:39:16,357-INFO-channel_manager.py:216 register channel: ccm
+2019-11-05 10:39:16,358-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-05 10:39:16,358-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-05 10:54:22,254-INFO-presenter_socket_server.py:284 receive event EPOLLHUP
+2019-11-05 10:54:22,256-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006)>}
+2019-11-05 10:54:22,257-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-05 10:54:22,258-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-05 10:54:22,267-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 14:25:31,758-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-06 14:25:31,758-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-06 14:25:50,548-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41060, fd:10
+2019-11-06 14:25:50,549-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-06 14:25:50,549-INFO-channel_manager.py:216 register channel: ccm
+2019-11-06 14:25:50,550-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 14:25:50,551-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 14:27:46,899-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-06 14:27:46,900-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 14:27:46,901-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41060)>}
+2019-11-06 14:27:46,902-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 14:27:46,902-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 14:27:46,903-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 14:29:30,065-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41070, fd:10
+2019-11-06 14:29:30,066-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 14:29:30,067-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 14:29:44,177-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-06 14:29:44,177-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 14:29:44,178-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41070)>}
+2019-11-06 14:29:44,178-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 14:29:44,179-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 14:29:44,207-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 14:30:43,054-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41080, fd:10
+2019-11-06 14:30:43,055-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 14:30:43,056-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 14:31:13,701-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-06 14:31:13,701-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 14:31:13,702-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41080)>}
+2019-11-06 14:31:13,702-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 14:31:13,703-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 14:31:13,727-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 14:34:10,220-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41090, fd:10
+2019-11-06 14:34:10,222-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 14:34:10,223-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 14:34:31,845-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-06 14:34:31,845-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 14:34:31,846-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41090)>}
+2019-11-06 14:34:31,846-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 14:34:31,847-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 14:34:31,858-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 14:39:10,318-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41100, fd:10
+2019-11-06 14:39:10,319-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 14:39:10,320-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 14:39:42,976-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-06 14:39:42,976-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 14:39:42,976-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41100)>}
+2019-11-06 14:39:42,976-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 14:39:42,976-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 14:39:42,982-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 14:52:20,840-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41110, fd:10
+2019-11-06 14:52:20,842-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 14:52:20,843-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 14:53:10,786-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-06 14:53:10,786-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 14:53:10,786-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41110)>}
+2019-11-06 14:53:10,787-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 14:53:10,787-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 14:53:10,788-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 14:56:57,072-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41120, fd:10
+2019-11-06 14:56:57,073-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 14:56:57,074-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 15:06:06,090-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-06 15:06:06,091-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 15:06:06,091-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41120)>}
+2019-11-06 15:06:06,092-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 15:06:06,093-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 15:06:06,094-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 15:06:50,468-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41130, fd:10
+2019-11-06 15:06:50,468-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 15:06:50,469-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-06 16:07:40,585-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 16:07:40,586-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 16:07:40,586-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 16:40:17,367-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:56082, fd:11
+2019-11-06 16:40:17,368-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 16:40:17,368-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-06 17:02:58,569-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-06 17:02:58,570-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 17:02:58,570-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41130)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 56082)>}
+2019-11-06 17:02:58,572-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 17:02:58,572-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 17:02:58,572-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 17:03:29,720-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:56092, fd:11
+2019-11-06 17:03:29,721-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 17:03:29,722-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-06 17:03:40,268-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-06 17:03:40,269-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 17:03:40,269-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41130)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 56092)>}
+2019-11-06 17:03:40,271-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 17:03:40,271-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 17:03:40,272-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 17:04:11,448-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:56102, fd:11
+2019-11-06 17:04:11,450-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 17:04:11,451-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-06 17:46:23,093-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-06 17:46:23,094-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 17:46:23,094-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41130)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 56102)>}
+2019-11-06 17:46:23,096-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 17:46:23,097-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 17:46:23,097-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 17:46:48,802-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:56112, fd:11
+2019-11-06 17:46:48,804-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 17:46:48,804-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-06 17:47:35,675-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-06 17:47:35,675-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 17:47:35,676-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41130)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 56112)>}
+2019-11-06 17:47:35,677-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 17:47:35,677-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 17:47:35,678-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 17:50:01,575-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:56122, fd:11
+2019-11-06 17:50:01,576-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 17:50:01,577-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-06 17:50:09,049-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-06 17:50:09,049-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 17:50:09,050-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41130)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 56122)>}
+2019-11-06 17:50:09,051-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 17:50:09,052-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 17:50:09,053-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 18:02:37,035-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:56132, fd:11
+2019-11-06 18:02:37,037-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-06 18:02:37,037-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-06 18:02:59,194-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-06 18:02:59,195-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-06 18:02:59,195-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41130)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 56132)>}
+2019-11-06 18:02:59,196-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-06 18:02:59,197-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-06 18:02:59,197-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-06 21:03:06,296-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x2827b28>
+2019-11-06 21:03:06,297-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-11-07 15:26:42,226-INFO-object_detection_server.py:223 presenter server is starting...
+2019-11-07 15:26:42,227-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-07 15:27:54,955-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:46144, fd:10
+2019-11-07 15:27:54,956-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-07 15:27:54,956-INFO-channel_manager.py:216 register channel: ccm
+2019-11-07 15:27:54,957-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-07 15:27:54,957-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-07 15:49:24,983-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-07 15:49:24,983-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-07 15:49:24,984-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-07 16:18:47,438-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:59432, fd:11
+2019-11-07 16:18:47,440-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-07 16:18:47,440-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-07 16:19:10,311-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-07 16:19:10,312-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-07 16:19:10,312-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46144)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 59432)>}
+2019-11-07 16:19:10,312-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-07 16:19:10,312-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-07 16:19:10,313-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-07 16:34:04,105-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:59442, fd:11
+2019-11-07 16:34:04,106-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-07 16:34:04,106-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-07 16:39:39,701-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-07 16:39:39,701-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-07 16:39:39,701-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46144)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 59442)>}
+2019-11-07 16:39:39,701-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-07 16:39:39,701-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-07 16:39:39,710-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-07 17:01:34,477-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:59452, fd:11
+2019-11-07 17:01:34,477-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-07 17:01:34,478-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-07 17:05:02,842-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-07 17:05:02,842-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-07 17:05:02,843-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46144)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 59452)>}
+2019-11-07 17:05:02,843-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-07 17:05:02,843-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-07 17:05:02,843-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-07 17:05:31,858-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:59462, fd:11
+2019-11-07 17:05:31,859-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-07 17:05:31,859-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-07 18:20:45,135-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-07 18:20:45,135-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-07 18:20:45,135-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 46144)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 59462)>}
+2019-11-07 18:20:45,135-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-07 18:20:45,136-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-07 18:20:45,136-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-07 20:35:27,923-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x2ccc9c8>
+2019-11-07 20:35:27,923-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-11-08 18:48:55,277-INFO-object_detection_server.py:308 presenter server is starting...
+2019-11-08 18:48:55,277-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-08 18:49:07,019-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57924, fd:10
+2019-11-08 18:49:07,020-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-08 18:49:07,021-INFO-channel_manager.py:216 register channel: ccm
+2019-11-08 18:49:07,021-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 18:49:07,022-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 18:50:46,462-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 18:50:46,462-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 18:50:46,463-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57924)>}
+2019-11-08 18:50:46,463-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 18:50:46,463-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 18:50:46,463-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 18:51:23,498-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57934, fd:10
+2019-11-08 18:51:23,500-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 18:51:23,501-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 18:54:12,830-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 18:54:12,830-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 18:54:12,831-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57934)>}
+2019-11-08 18:54:12,832-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 18:54:12,832-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 18:54:12,833-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 18:54:40,190-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57944, fd:10
+2019-11-08 18:54:40,191-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 18:54:40,192-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 18:55:34,840-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 18:55:34,841-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 18:55:34,841-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57944)>}
+2019-11-08 18:55:34,842-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 18:55:34,843-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 18:55:34,843-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 18:56:12,993-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57954, fd:10
+2019-11-08 18:56:12,994-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 18:56:12,995-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 19:04:33,381-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 19:04:33,381-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 19:04:33,382-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57954)>}
+2019-11-08 19:04:33,382-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 19:04:33,383-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 19:04:33,384-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 19:04:52,838-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57964, fd:10
+2019-11-08 19:04:52,839-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 19:04:52,840-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 19:25:10,389-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 19:25:10,390-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 19:25:10,390-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57964)>}
+2019-11-08 19:25:10,391-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 19:25:10,392-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 19:25:10,393-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 19:25:53,653-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57974, fd:10
+2019-11-08 19:25:53,654-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 19:25:53,655-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 19:26:04,708-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 19:26:04,709-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 19:26:04,709-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57974)>}
+2019-11-08 19:26:04,710-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 19:26:04,710-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 19:26:04,711-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 19:46:47,605-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57984, fd:10
+2019-11-08 19:46:47,606-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 19:46:47,606-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 19:47:17,651-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 19:47:17,652-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 19:47:17,652-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57984)>}
+2019-11-08 19:47:17,652-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 19:47:17,652-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 19:47:17,652-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 20:20:07,061-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:57994, fd:10
+2019-11-08 20:20:07,063-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 20:20:07,064-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 20:20:37,776-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 20:20:37,777-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 20:20:37,777-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 57994)>}
+2019-11-08 20:20:37,778-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 20:20:37,778-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 20:20:37,779-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 20:21:06,090-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58004, fd:10
+2019-11-08 20:21:06,091-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 20:21:06,092-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 20:22:48,040-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 20:22:48,041-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 20:22:48,041-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58004)>}
+2019-11-08 20:22:48,042-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 20:22:48,043-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 20:22:48,044-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 20:23:47,091-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58014, fd:10
+2019-11-08 20:23:47,093-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 20:23:47,093-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 21:40:07,002-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 21:40:07,002-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 21:40:07,002-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58014)>}
+2019-11-08 21:40:07,002-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 21:40:07,002-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 21:40:07,002-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 21:40:34,449-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58024, fd:10
+2019-11-08 21:40:34,450-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 21:40:34,450-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 21:41:54,682-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 21:41:54,683-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 21:41:54,683-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58024)>}
+2019-11-08 21:41:54,683-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 21:41:54,683-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 21:41:54,683-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 21:42:21,223-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58034, fd:10
+2019-11-08 21:42:21,224-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 21:42:21,224-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:20:13,868-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:20:13,869-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:20:13,869-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58034)>}
+2019-11-08 22:20:13,870-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:20:13,871-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:20:13,871-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:39:50,046-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58044, fd:10
+2019-11-08 22:39:50,047-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:39:50,047-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:39:50,549-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:39:50,549-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:39:50,549-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58044)>}
+2019-11-08 22:39:50,549-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:39:50,550-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:39:50,550-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:40:26,857-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58054, fd:10
+2019-11-08 22:40:26,858-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:40:26,858-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:40:27,352-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:40:27,353-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:40:27,353-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58054)>}
+2019-11-08 22:40:27,353-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:40:27,353-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:40:27,353-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:41:07,244-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58064, fd:10
+2019-11-08 22:41:07,244-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:41:07,245-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:41:07,748-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:41:07,748-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:41:07,748-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58064)>}
+2019-11-08 22:41:07,748-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:41:07,748-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:41:07,749-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:43:55,795-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54290, fd:10
+2019-11-08 22:43:55,795-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:43:55,796-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:43:56,095-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:43:56,095-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:43:56,095-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54290)>}
+2019-11-08 22:43:56,095-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:43:56,096-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:43:56,096-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:47:48,301-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54300, fd:10
+2019-11-08 22:47:48,302-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:47:48,302-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:48:29,970-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:48:29,970-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:48:29,970-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54300)>}
+2019-11-08 22:48:29,971-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:48:29,971-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:48:29,971-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:49:07,207-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54310, fd:10
+2019-11-08 22:49:07,207-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:49:07,207-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:52:40,590-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:52:40,590-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:52:40,590-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54310)>}
+2019-11-08 22:52:40,590-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:52:40,590-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:52:40,590-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:53:16,550-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54320, fd:10
+2019-11-08 22:53:16,551-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:53:16,551-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:54:48,694-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:54:48,694-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:54:48,694-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54320)>}
+2019-11-08 22:54:48,695-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:54:48,695-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:54:48,695-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:56:50,691-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54330, fd:10
+2019-11-08 22:56:50,692-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:56:50,692-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:57:11,860-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:57:11,861-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:57:11,861-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54330)>}
+2019-11-08 22:57:11,861-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:57:11,861-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:57:11,861-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:57:41,879-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:54340, fd:10
+2019-11-08 22:57:41,880-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-08 22:57:41,880-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-08 22:57:42,310-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-08 22:57:42,310-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-08 22:57:42,311-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 54340)>}
+2019-11-08 22:57:42,311-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-08 22:57:42,311-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-08 22:57:42,311-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-08 22:59:40,880-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x12fadb8>
+2019-11-08 22:59:40,881-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-11-11 09:32:03,297-INFO-object_detection_server.py:308 presenter server is starting...
+2019-11-11 09:32:03,298-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-11 09:33:11,606-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58376, fd:11
+2019-11-11 09:33:11,607-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-11 09:33:11,607-INFO-channel_manager.py:216 register channel: ccm
+2019-11-11 09:33:11,608-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 09:33:11,608-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-11 09:57:00,271-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-11 09:57:00,272-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 09:57:00,272-INFO-object_detection_server.py:60 clean fd:11, conns:{11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58376)>}
+2019-11-11 09:57:00,273-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 09:57:00,274-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 09:57:00,295-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 10:03:11,963-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:58386, fd:10
+2019-11-11 10:03:11,965-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 10:03:11,966-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-11 10:10:38,869-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 10:10:38,870-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 10:10:38,876-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 10:12:20,878-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:38272, fd:11
+2019-11-11 10:12:20,880-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 10:12:20,881-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-11 10:13:41,514-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-11 10:13:41,514-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 10:13:41,514-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38272)>}
+2019-11-11 10:13:41,514-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 10:13:41,515-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 10:13:41,521-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:12:51,902-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:38282, fd:11
+2019-11-11 11:12:51,904-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:12:51,905-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-11 11:13:32,183-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-11 11:13:32,184-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 11:13:32,184-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38282)>}
+2019-11-11 11:13:32,186-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:13:32,187-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:13:32,188-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:14:42,444-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:38292, fd:11
+2019-11-11 11:14:42,445-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:14:42,446-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-11 11:15:28,378-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-11 11:15:28,379-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 11:15:28,379-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38292)>}
+2019-11-11 11:15:28,380-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:15:28,381-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:15:28,405-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:16:03,009-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:38302, fd:11
+2019-11-11 11:16:03,011-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:16:03,012-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-11 11:16:30,246-INFO-presenter_socket_server.py:284 receive event EPOLLHUP
+2019-11-11 11:16:30,247-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006)>}
+2019-11-11 11:16:30,248-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:16:30,248-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:16:30,249-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:17:36,729-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:38312, fd:11
+2019-11-11 11:17:36,731-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:17:36,732-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-11 11:21:10,201-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:21:10,202-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:21:10,221-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:23:57,591-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:52564, fd:12
+2019-11-11 11:23:57,593-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:23:57,594-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-11 11:24:19,047-ERROR-presenter_socket_server.py:142 socket 12 receive msg head null
+2019-11-11 11:24:19,048-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 11:24:19,049-INFO-object_detection_server.py:60 clean fd:12, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 52564)>}
+2019-11-11 11:24:19,050-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:24:19,051-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:24:19,081-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:25:20,631-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:52574, fd:12
+2019-11-11 11:25:20,632-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:25:20,632-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-11 11:26:06,674-ERROR-presenter_socket_server.py:142 socket 12 receive msg head null
+2019-11-11 11:26:06,675-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 11:26:06,675-INFO-object_detection_server.py:60 clean fd:12, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 52574)>}
+2019-11-11 11:26:06,677-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:26:06,678-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:26:06,707-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:27:12,932-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:52584, fd:12
+2019-11-11 11:27:12,934-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:27:12,935-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-11 11:27:56,469-ERROR-presenter_socket_server.py:142 socket 12 receive msg head null
+2019-11-11 11:27:56,469-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 11:27:56,470-INFO-object_detection_server.py:60 clean fd:12, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 52584)>}
+2019-11-11 11:27:56,471-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:27:56,471-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:27:56,472-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:31:18,032-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:45772, fd:12
+2019-11-11 11:31:18,034-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:31:18,034-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-11 11:33:10,122-ERROR-presenter_socket_server.py:142 socket 12 receive msg head null
+2019-11-11 11:33:10,123-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 11:33:10,123-INFO-object_detection_server.py:60 clean fd:12, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45772)>}
+2019-11-11 11:33:10,124-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:33:10,124-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:33:10,125-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:33:41,539-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:45782, fd:12
+2019-11-11 11:33:41,539-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:33:41,540-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-11 11:35:35,330-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:35:35,331-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:35:35,339-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 11:39:06,207-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:34946, fd:14
+2019-11-11 11:39:06,208-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 11:39:06,209-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 11:39:39,141-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 11:39:39,141-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 11:39:39,141-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 34946)>}
+2019-11-11 11:39:39,142-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 11:39:39,142-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 11:39:39,162-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 12:15:51,746-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:34956, fd:14
+2019-11-11 12:15:51,746-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 12:15:51,746-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 12:16:39,716-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 12:16:39,716-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 12:16:39,717-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 34956)>}
+2019-11-11 12:16:39,718-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 12:16:39,718-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 12:16:39,725-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 12:27:44,572-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:34966, fd:14
+2019-11-11 12:27:44,574-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 12:27:44,574-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 12:28:14,341-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 12:28:14,342-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 12:28:14,342-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 34966)>}
+2019-11-11 12:28:14,342-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 12:28:14,342-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 12:28:14,343-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:18:57,658-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:50056, fd:14
+2019-11-11 14:18:57,659-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:18:57,659-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:20:31,959-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:20:31,959-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:20:31,960-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 50056)>}
+2019-11-11 14:20:31,961-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:20:31,961-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:20:31,964-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:20:50,736-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:50066, fd:14
+2019-11-11 14:20:50,738-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:20:50,739-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:21:13,094-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:21:13,094-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:21:13,095-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 50066)>}
+2019-11-11 14:21:13,096-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:21:13,096-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:21:13,097-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:21:34,787-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:50076, fd:14
+2019-11-11 14:21:34,788-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:21:34,789-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:22:03,771-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:22:03,772-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:22:03,772-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 50076)>}
+2019-11-11 14:22:03,774-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:22:03,775-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:22:03,775-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:22:49,796-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:50086, fd:14
+2019-11-11 14:22:49,798-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:22:49,798-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:23:27,174-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:23:27,175-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:23:27,176-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 50086)>}
+2019-11-11 14:23:27,177-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:23:27,178-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:23:27,178-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:25:06,660-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:50096, fd:14
+2019-11-11 14:25:06,662-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:25:06,662-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:25:51,158-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:25:51,159-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:25:51,159-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 50096)>}
+2019-11-11 14:25:51,160-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:25:51,161-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:25:51,170-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:26:29,298-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:50106, fd:14
+2019-11-11 14:26:29,299-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:26:29,300-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:26:38,148-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:26:38,148-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:26:38,149-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 50106)>}
+2019-11-11 14:26:38,149-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:26:38,150-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:26:38,172-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:27:29,553-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:60394, fd:14
+2019-11-11 14:27:29,554-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:27:29,554-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:29:43,317-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:29:43,318-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:29:43,318-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60394)>}
+2019-11-11 14:29:43,319-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:29:43,320-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:29:43,327-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:30:24,079-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:60404, fd:14
+2019-11-11 14:30:24,080-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:30:24,080-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:31:10,645-ERROR-presenter_socket_server.py:142 socket 14 receive msg head null
+2019-11-11 14:31:10,645-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:31:10,646-INFO-object_detection_server.py:60 clean fd:14, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60404)>}
+2019-11-11 14:31:10,647-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:31:10,647-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:31:10,661-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:32:31,389-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:60414, fd:14
+2019-11-11 14:32:31,390-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:32:31,391-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:14, media_type:video
+2019-11-11 14:34:32,500-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:34:32,501-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:34:32,511-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:37:17,512-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:39138, fd:15
+2019-11-11 14:37:17,513-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:37:17,513-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:15, media_type:video
+2019-11-11 14:38:22,476-ERROR-presenter_socket_server.py:142 socket 15 receive msg head null
+2019-11-11 14:38:22,476-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:38:22,476-INFO-object_detection_server.py:60 clean fd:15, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 39138)>}
+2019-11-11 14:38:22,477-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:38:22,477-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:38:22,481-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:39:34,073-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:39148, fd:15
+2019-11-11 14:39:34,074-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:39:34,075-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:15, media_type:video
+2019-11-11 14:40:18,406-ERROR-presenter_socket_server.py:142 socket 15 receive msg head null
+2019-11-11 14:40:18,406-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:40:18,407-INFO-object_detection_server.py:60 clean fd:15, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 39148)>}
+2019-11-11 14:40:18,408-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:40:18,408-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:40:18,418-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:53:09,075-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41918, fd:15
+2019-11-11 14:53:09,076-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:53:09,076-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:15, media_type:video
+2019-11-11 14:53:46,172-ERROR-presenter_socket_server.py:142 socket 15 receive msg head null
+2019-11-11 14:53:46,172-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:53:46,173-INFO-object_detection_server.py:60 clean fd:15, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41918)>}
+2019-11-11 14:53:46,175-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:53:46,176-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:53:46,176-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:56:22,511-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41928, fd:15
+2019-11-11 14:56:22,512-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:56:22,513-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:15, media_type:video
+2019-11-11 14:57:14,171-ERROR-presenter_socket_server.py:142 socket 15 receive msg head null
+2019-11-11 14:57:14,171-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:57:14,172-INFO-object_detection_server.py:60 clean fd:15, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41928)>}
+2019-11-11 14:57:14,173-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:57:14,174-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:57:14,196-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:57:42,008-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41938, fd:15
+2019-11-11 14:57:42,009-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:57:42,010-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:15, media_type:video
+2019-11-11 14:58:16,952-ERROR-presenter_socket_server.py:142 socket 15 receive msg head null
+2019-11-11 14:58:16,953-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 14:58:16,953-INFO-object_detection_server.py:60 clean fd:15, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41938)>}
+2019-11-11 14:58:16,954-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 14:58:16,955-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 14:58:16,964-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 14:59:01,128-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:41948, fd:15
+2019-11-11 14:59:01,130-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 14:59:01,131-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:15, media_type:video
+2019-11-11 15:01:00,174-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 15:01:00,175-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 15:01:00,182-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 15:03:56,532-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:38344, fd:16
+2019-11-11 15:03:56,533-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 15:03:56,534-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:16, media_type:video
+2019-11-11 15:04:32,841-ERROR-presenter_socket_server.py:142 socket 16 receive msg head null
+2019-11-11 15:04:32,842-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 15:04:32,842-INFO-object_detection_server.py:60 clean fd:16, conns:{16: <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38344)>, 10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41948)>}
+2019-11-11 15:04:32,843-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 15:04:32,843-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 15:04:32,844-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 15:06:44,790-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:60100, fd:16
+2019-11-11 15:06:44,791-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 15:06:44,791-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:16, media_type:video
+2019-11-11 15:07:50,614-ERROR-presenter_socket_server.py:142 socket 16 receive msg head null
+2019-11-11 15:07:50,615-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 15:07:50,615-INFO-object_detection_server.py:60 clean fd:16, conns:{16: <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60100)>, 10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41948)>}
+2019-11-11 15:07:50,616-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 15:07:50,617-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 15:07:50,625-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 15:11:07,062-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:60110, fd:16
+2019-11-11 15:11:07,063-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 15:11:07,064-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:16, media_type:video
+2019-11-11 15:12:24,089-ERROR-presenter_socket_server.py:142 socket 16 receive msg head null
+2019-11-11 15:12:24,090-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 15:12:24,090-INFO-object_detection_server.py:60 clean fd:16, conns:{16: <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60110)>, 10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41948)>}
+2019-11-11 15:12:24,091-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 15:12:24,092-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 15:12:24,092-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 15:19:38,704-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:60120, fd:16
+2019-11-11 15:19:38,706-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 15:19:38,707-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:16, media_type:video
+2019-11-11 15:25:09,921-ERROR-presenter_socket_server.py:142 socket 16 receive msg head null
+2019-11-11 15:25:09,921-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 15:25:09,922-INFO-object_detection_server.py:60 clean fd:16, conns:{16: <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60120)>, 10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41948)>}
+2019-11-11 15:25:09,923-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 15:25:09,924-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 15:25:09,932-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 18:33:20,785-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:60130, fd:16
+2019-11-11 18:33:20,786-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 18:33:20,786-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:16, media_type:video
+2019-11-11 20:01:17,447-ERROR-presenter_socket_server.py:142 socket 16 receive msg head null
+2019-11-11 20:01:17,448-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 20:01:17,449-INFO-object_detection_server.py:60 clean fd:16, conns:{16: <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60130)>, 10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41948)>}
+2019-11-11 20:01:17,450-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 20:01:17,450-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 20:01:17,451-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 20:33:57,264-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:33418, fd:16
+2019-11-11 20:33:57,265-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-11 20:33:57,265-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:16, media_type:video
+2019-11-11 20:34:54,365-ERROR-presenter_socket_server.py:142 socket 16 receive msg head null
+2019-11-11 20:34:54,366-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-11 20:34:54,366-INFO-object_detection_server.py:60 clean fd:16, conns:{16: <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 33418)>, 10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 58386)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 38312)>, 12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 45782)>, 14: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 60414)>, 15: <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 41948)>}
+2019-11-11 20:34:54,367-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-11 20:34:54,368-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-11 20:34:54,379-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-11 20:54:46,266-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x1e748f8>
+2019-11-11 20:54:46,267-INFO-presenter_server.py:93 presenter server exit by Ctrl + c
+2019-11-12 12:19:11,417-INFO-object_detection_server.py:308 presenter server is starting...
+2019-11-12 12:19:11,417-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-12 12:19:41,362-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:35430, fd:10
+2019-11-12 12:19:41,363-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-12 12:19:41,364-INFO-channel_manager.py:216 register channel: ccm
+2019-11-12 12:19:41,365-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 12:19:41,366-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 12:21:27,020-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 12:21:27,021-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 12:21:27,021-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 35430)>}
+2019-11-12 12:21:27,022-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 12:21:27,023-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 12:21:27,024-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 12:26:26,609-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:35448, fd:10
+2019-11-12 12:26:26,611-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 12:26:26,612-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 12:29:41,236-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 12:29:41,237-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 12:29:41,237-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 35448)>}
+2019-11-12 12:29:41,238-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 12:29:41,239-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 12:29:41,262-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 12:29:58,891-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:35460, fd:10
+2019-11-12 12:29:58,892-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 12:29:58,892-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 12:32:47,946-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 12:32:47,947-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 12:32:47,947-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 35460)>}
+2019-11-12 12:32:47,947-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 12:32:47,947-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 12:32:47,954-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 14:21:17,973-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42234, fd:10
+2019-11-12 14:21:17,974-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 14:21:17,975-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 14:38:27,106-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42264, fd:11
+2019-11-12 14:38:27,107-ERROR-presenter_socket_server.py:364 channel path ccm is busy.
+2019-11-12 14:38:27,108-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42234)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42264)>}
+2019-11-12 14:40:45,554-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 14:40:45,555-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 14:40:45,556-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42234)>}
+2019-11-12 14:40:45,557-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 14:40:45,557-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 14:40:45,563-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 14:40:54,697-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42270, fd:10
+2019-11-12 14:40:54,699-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 14:40:54,699-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 14:41:49,986-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 14:41:49,987-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 14:41:49,987-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42270)>}
+2019-11-12 14:41:49,988-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 14:41:49,989-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 14:41:49,989-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 14:47:06,316-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42284, fd:10
+2019-11-12 14:47:06,317-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 14:47:06,317-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 14:48:16,713-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 14:48:16,713-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 14:48:16,714-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42284)>}
+2019-11-12 14:48:16,715-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 14:48:16,716-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 14:48:16,716-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 14:48:27,417-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42296, fd:10
+2019-11-12 14:48:27,418-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 14:48:27,418-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 14:54:33,670-INFO-object_detection_server.py:308 presenter server is starting...
+2019-11-12 14:54:33,671-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-12 14:55:56,460-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42342, fd:10
+2019-11-12 14:55:56,461-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-12 14:55:56,461-INFO-channel_manager.py:216 register channel: ccm
+2019-11-12 14:55:56,461-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 14:55:56,462-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 14:56:49,726-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 14:56:49,727-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 14:56:49,727-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42342)>}
+2019-11-12 14:56:49,727-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 14:56:49,727-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 14:56:49,728-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 15:28:01,398-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42362, fd:10
+2019-11-12 15:28:01,403-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 15:28:01,403-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 15:30:44,772-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 15:30:44,772-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 15:30:44,772-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42362)>}
+2019-11-12 15:30:44,773-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 15:30:44,773-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 15:30:44,773-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 15:36:35,044-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42384, fd:10
+2019-11-12 15:36:35,045-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 15:36:35,046-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 15:41:16,190-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 15:41:16,191-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 15:41:16,191-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42384)>}
+2019-11-12 15:41:16,191-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 15:41:16,192-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 15:41:16,197-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:18:05,768-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42410, fd:10
+2019-11-12 16:18:05,769-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:18:05,770-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 16:19:01,463-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 16:19:01,463-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 16:19:01,464-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42410)>}
+2019-11-12 16:19:01,464-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 16:19:01,465-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 16:19:01,490-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:20:52,296-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42420, fd:10
+2019-11-12 16:20:52,296-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:20:52,297-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 16:21:56,851-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 16:21:56,852-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 16:21:56,852-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42420)>}
+2019-11-12 16:21:56,853-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 16:21:56,854-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 16:21:56,857-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:23:50,776-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42430, fd:10
+2019-11-12 16:23:50,777-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:23:50,777-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 16:24:31,329-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 16:24:31,329-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 16:24:31,330-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42430)>}
+2019-11-12 16:24:31,331-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 16:24:31,332-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 16:24:31,334-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:25:10,730-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42440, fd:10
+2019-11-12 16:25:10,731-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:25:10,731-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 16:40:36,753-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42468, fd:11
+2019-11-12 16:40:36,753-ERROR-presenter_socket_server.py:364 channel path ccm is busy.
+2019-11-12 16:40:36,754-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42440)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42468)>}
+2019-11-12 16:43:18,484-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42470, fd:11
+2019-11-12 16:43:18,485-ERROR-presenter_socket_server.py:364 channel path ccm is busy.
+2019-11-12 16:43:18,485-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42440)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42470)>}
+2019-11-12 16:49:09,606-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42472, fd:11
+2019-11-12 16:49:09,607-ERROR-presenter_socket_server.py:364 channel path ccm is busy.
+2019-11-12 16:49:09,608-INFO-object_detection_server.py:60 clean fd:11, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42440)>, 11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42472)>}
+2019-11-12 16:49:56,378-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 16:49:56,379-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 16:49:56,379-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42440)>}
+2019-11-12 16:49:56,380-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 16:49:56,381-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 16:49:56,402-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:51:49,877-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42474, fd:10
+2019-11-12 16:51:49,878-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:51:49,879-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 16:52:11,706-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 16:52:11,706-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 16:52:11,707-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42474)>}
+2019-11-12 16:52:11,707-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 16:52:11,707-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 16:52:11,715-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:53:31,931-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42492, fd:10
+2019-11-12 16:53:31,933-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:53:31,933-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 16:54:01,602-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 16:54:01,602-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 16:54:01,603-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42492)>}
+2019-11-12 16:54:01,603-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 16:54:01,604-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 16:54:01,616-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:54:44,358-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42502, fd:10
+2019-11-12 16:54:44,360-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:54:44,361-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 16:57:54,195-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 16:57:54,195-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 16:57:54,195-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42502)>}
+2019-11-12 16:57:54,196-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 16:57:54,196-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 16:57:54,202-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 16:57:54,964-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42520, fd:10
+2019-11-12 16:57:54,964-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 16:57:54,965-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 17:07:22,750-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 17:07:22,751-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 17:07:22,751-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42520)>}
+2019-11-12 17:07:22,752-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 17:07:22,753-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 17:07:22,773-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-12 17:07:23,459-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42546, fd:10
+2019-11-12 17:07:23,461-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-12 17:07:23,462-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-12 17:09:32,127-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-12 17:09:32,127-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-12 17:09:32,127-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42546)>}
+2019-11-12 17:09:32,128-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-12 17:09:32,128-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-12 17:09:32,137-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 18:21:29,918-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42062, fd:11
+2019-11-13 18:21:29,921-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 18:21:29,922-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-13 18:46:43,459-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-13 18:46:43,460-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 18:46:43,460-INFO-object_detection_server.py:60 clean fd:11, conns:{11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42062)>}
+2019-11-13 18:46:43,460-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 18:46:43,460-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 18:46:43,474-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 18:50:23,324-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42072, fd:10
+2019-11-13 18:50:23,325-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 18:50:23,326-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 19:01:38,025-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-13 19:01:38,058-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:01:38,060-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42072)>}
+2019-11-13 19:01:38,074-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:01:38,076-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:01:38,096-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:02:44,247-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42082, fd:10
+2019-11-13 19:02:44,255-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:02:44,256-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 19:07:45,704-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-13 19:07:45,712-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:07:45,712-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42082)>}
+2019-11-13 19:07:45,715-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:07:45,716-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:07:45,728-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:08:07,989-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42092, fd:10
+2019-11-13 19:08:07,990-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:08:07,991-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 19:09:57,555-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-13 19:09:57,556-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:09:57,556-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42092)>}
+2019-11-13 19:09:57,557-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:09:57,558-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:09:57,561-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:10:21,726-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42102, fd:10
+2019-11-13 19:10:21,727-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:10:21,728-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 19:11:05,238-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-13 19:11:05,239-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:11:05,239-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42102)>}
+2019-11-13 19:11:05,239-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:11:05,239-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:11:05,240-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:11:32,549-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42112, fd:10
+2019-11-13 19:11:32,551-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:11:32,552-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 19:14:48,416-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-13 19:14:48,416-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:14:48,416-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42112)>}
+2019-11-13 19:14:48,417-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:14:48,417-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:14:48,417-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:21:59,939-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42122, fd:10
+2019-11-13 19:21:59,940-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:21:59,941-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 19:46:39,221-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-13 19:46:39,228-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:46:39,228-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42122)>}
+2019-11-13 19:46:39,228-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:46:39,228-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:46:39,230-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:47:07,218-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42132, fd:10
+2019-11-13 19:47:07,219-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:47:07,220-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 19:48:41,832-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-13 19:48:41,833-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:48:41,833-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42132)>}
+2019-11-13 19:48:41,833-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:48:41,833-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:48:41,835-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:49:30,949-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42142, fd:12
+2019-11-13 19:49:30,951-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:49:30,951-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-13 19:50:41,030-ERROR-presenter_socket_server.py:142 socket 12 receive msg head null
+2019-11-13 19:50:41,031-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:50:41,031-INFO-object_detection_server.py:60 clean fd:12, conns:{12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42142)>}
+2019-11-13 19:50:41,031-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:50:41,031-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:50:41,033-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:51:52,070-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:42152, fd:12
+2019-11-13 19:51:52,071-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:51:52,072-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:12, media_type:video
+2019-11-13 19:52:15,226-ERROR-presenter_socket_server.py:142 socket 12 receive msg head null
+2019-11-13 19:52:15,227-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-13 19:52:15,227-INFO-object_detection_server.py:60 clean fd:12, conns:{12: <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 42152)>}
+2019-11-13 19:52:15,229-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 19:52:15,230-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 19:52:15,237-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-13 19:53:36,870-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:47500, fd:10
+2019-11-13 19:53:36,872-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-13 19:53:36,872-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-13 20:17:27,250-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-13 20:17:27,251-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-13 20:17:27,251-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-14 10:12:07,808-INFO-object_detection_server.py:308 presenter server is starting...
+2019-11-14 10:12:07,809-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-14 10:13:20,790-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:39154, fd:10
+2019-11-14 10:13:20,791-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-14 10:13:20,792-INFO-channel_manager.py:216 register channel: ccm
+2019-11-14 10:13:20,793-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-14 10:13:20,793-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:10, media_type:video
+2019-11-14 10:15:21,640-ERROR-presenter_socket_server.py:142 socket 10 receive msg head null
+2019-11-14 10:15:21,640-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-14 10:15:21,640-INFO-object_detection_server.py:60 clean fd:10, conns:{10: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 39154)>}
+2019-11-14 10:15:21,640-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-14 10:15:21,641-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-14 10:15:21,649-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-18 20:01:18,126-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-18 20:01:18,127-INFO-presenter_server.py:79 presenter server starting, type: object_detection
+2019-11-18 20:02:08,427-INFO-presenter_socket_server.py:255 create new connection:client-ip:192.168.1.2, client-port:37850, fd:11
+2019-11-18 20:02:08,429-ERROR-presenter_socket_server.py:354 channel name ccm is not exist.
+2019-11-18 20:02:08,430-INFO-channel_manager.py:216 register channel: ccm
+2019-11-18 20:02:08,431-INFO-channel_handler.py:215 create videothread-ccm...
+2019-11-18 20:02:08,432-INFO-channel_manager.py:127 create channel resource, channel_name:ccm, channel_fd:11, media_type:video
+2019-11-18 20:02:52,402-ERROR-presenter_socket_server.py:142 socket 11 receive msg head null
+2019-11-18 20:02:52,403-ERROR-presenter_socket_server.py:204 msg_total_len is None.
+2019-11-18 20:02:52,403-INFO-object_detection_server.py:60 clean fd:11, conns:{11: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.1.166', 7006), raddr=('192.168.1.2', 37850)>}
+2019-11-18 20:02:52,403-INFO-channel_handler.py:124 videothread-ccm set _close_thread_switch True
+2019-11-18 20:02:52,403-INFO-channel_manager.py:139 clean channel: ccm's resource
+2019-11-18 20:02:52,404-INFO-channel_handler.py:226 Stop thread:videothread-ccm.
+2019-11-18 20:51:54,864-INFO-presenter_server.py:90 receive signal, signum:15, frame:<frame object at 0x22fd748>
+2019-11-27 11:09:08,593-INFO-object_detection_server.py:222 presenter server is starting...
+2019-11-27 11:09:08,594-INFO-presenter_server.py:79 presenter server starting, type: object_detection
