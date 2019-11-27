@@ -15,7 +15,7 @@ Before using an open source application, ensure that:
 ## Enviroment Configuration
 -  Get Code  
 
-Download all the code in the sample-objectdetection repository at https://gitee.com/Atlas200DK/sample-objectdetection-python.git  to any directory on Ubuntu PC Server, for example,  _/home/ascend/sample-objectdetection/_.
+Download all the code in the sample-objectdetection repository at https://github.com/shanchenqi/object_detection   to any directory on Ubuntu PC Server, for example,  _/home/ascend/sample-objectdetection/_.
 
 -  Install dependency
 
