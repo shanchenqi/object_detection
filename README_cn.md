@@ -16,7 +16,7 @@
 ## 环境配置
 -   获取源码
 
-   	将https://gitee.com/Atlas200DK/sample-objectdetection-python.git   
+   	将https://github.com/shanchenqi/object_detection  
 
    	仓中的代码下载至所在Ubuntu服务器（UIHost）的任意目录，例如代码存放路径为：$HOME/ascend/sample-	objectdetection-python。
 
